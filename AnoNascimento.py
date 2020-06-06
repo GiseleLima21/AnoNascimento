@@ -6,3 +6,4 @@ ano   = int(input ("Qual o ano atual? "))
 idade = int(input ("Qual a sua idade? "))
 resul = ano - idade
 print("Você nasceu em", resul)
+print("Você nasceu em", resul)
